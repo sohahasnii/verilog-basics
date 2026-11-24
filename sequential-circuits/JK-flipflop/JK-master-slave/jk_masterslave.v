@@ -1,4 +1,4 @@
-module jk_master_slave (
+module jk_masterslave (
     input J, K, clk,
     output reg Q,
     output wire Qbar
